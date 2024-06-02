@@ -1,5 +1,8 @@
 1. ikut metastro 2024
   memilih divisi
+    divisi keuangan
+    divisi logistik
+    divisi humas
   membulatkan tekad
   menambah relasi
 2. join organisasi
@@ -7,7 +10,9 @@
   berkontribusi penuh
 3. lebih giat belajar
   belajar pemrograman
+    pemrogranman phyton
   belajar rangkaian listrik
+    belajar teori thevenin
   belajar database
 4. lebih rajin mencari tahu
   lebih sering membaca buku
