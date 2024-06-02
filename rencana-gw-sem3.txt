@@ -1,8 +1,8 @@
 1. ikut metastro 2024
   memilih divisi
-    divisi keuangan
-    divisi logistik
-    divisi humas
+    divisi bendahara
+    divisi keamanan
+    divisi mentor
   membulatkan tekad
   menambah relasi
 2. join organisasi
@@ -17,4 +17,4 @@
 4. lebih rajin mencari tahu
   lebih sering membaca buku
   lebih sering menonton video tutorial di youtube
-5. menjadi yutuber gamink
+
