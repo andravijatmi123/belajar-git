@@ -1,6 +1,8 @@
 1. ikut metastro 2024
   memilih divisi
     divisi keuangan
+    divisi logistik
+    divisi humas
   membulatkan tekad
   menambah relasi
 2. join organisasi
